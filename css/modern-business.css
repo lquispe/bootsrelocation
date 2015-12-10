@@ -19,6 +19,12 @@ body {
     margin-bottom: 30px;
 }
 
+.footer-3 .footer-social li {
+   /* display: inline-block;*/
+   display: row;
+    padding: 5px 20px 5px 0;
+}
+
 .img-hover:hover {
     opacity: 0.8;
 }
@@ -71,6 +77,8 @@ header.carousel .fill {
 
 footer {
     margin: 50px 0;
+    background-color:   #286090;
+    
 }
 
 /* Responsive Styles */
@@ -90,4 +98,64 @@ footer {
     header.carousel .carousel {
         height: 70%;
     }
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #3897ff;  /*Sets the text hover color on navbar*/
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: #fff; /*BACKGROUND color for active*/
+background-color: #030033;
+}
+
+  .navbar-default {
+    background-color: #fff;
+    border-color:  #66CCFF;
+}
+
+  .dropdown-menu > li > a:hover,
+   .dropdown-menu > li > a:focus {
+    color: #262626;
+   text-decoration: none;
+  background-color: #66CCFF;  /*change color of links in drop down here*/
+   }
+
+ .nav > li > a:hover,
+ .nav > li > a:focus {
+    text-decoration: none;
+    background-color: silver; /*Change rollover cell color here*/
+  }
+
+
+  .navbar-default .navbar-nav > li > a {
+   color: #6d878f; /*Change active text color here*/
+    padding-bottom: 30px;
+    padding-top: 30px;
+    }
+ 
+ img.logo{
+    width: 180px; height: 60px;
+    }
+    .contppal{
+        padding-top:30px;
+    }
+.font-primary {
+    font-family: "Open Sans",Helvetica,Arial,sans-serif !important;
+    color:#6d878f;
+     font-weight: 500;
+
+}
+/*
+.colortit {
+    #47595e
+}*/
+
+body {
+    background-color: #ffffff;
+    color: #6d878f;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif !important;
+    font-size: 14px;
+    line-height: 1.42857;
 }
