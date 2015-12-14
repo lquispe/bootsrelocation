@@ -106,8 +106,9 @@ color: #3897ff;  /*Sets the text hover color on navbar*/
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
  a:hover, .navbar-default .navbar-nav > .active > a:focus {
-color: #fff; /*BACKGROUND color for active*/
-background-color: #030033;
+border-bottom-color:#3897ff; /*BACKGROUND color for active*/
+color: #3897ff;
+  background-color: #fff;
 }
 
   .navbar-default {
@@ -138,9 +139,7 @@ background-color: #030033;
  img.logo{
     width: 180px; height: 60px;
     }
-    .contppal{
-        padding-top:30px;
-    }
+   
 .font-primary {
     font-family: "Open Sans",Helvetica,Arial,sans-serif !important;
     color:#6d878f;
@@ -159,3 +158,14 @@ body {
     font-size: 14px;
     line-height: 1.42857;
 }
+.blackincolor{
+    color: #66CCFF;
+}
+.contppal{
+        padding-top:40px;
+    }
+    
+.primary-navbar .navbar-nav > .active > a, .primary-navbar .navbar-nav > .active > a:hover, .primary-navbar .navbar-nav > .active > a:focus {
+    border-bottom-color: #3897ff !important;
+    color: #3897ff !important;
+}    
