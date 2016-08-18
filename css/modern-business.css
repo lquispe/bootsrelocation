@@ -140,6 +140,16 @@ color: #3897ff;
     width: 180px; height: 60px;
     }
    
+    img.family{
+    width: 750px; height: 450px;
+    }
+     img.carr{
+    width:350px; height: 300px !important;
+    }
+   
+    img.port{
+    width: 700px; height: 350px;
+    }
 .font-primary {
     font-family: "Open Sans",Helvetica,Arial,sans-serif !important;
     color:#6d878f;

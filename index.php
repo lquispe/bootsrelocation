@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Relocation</title>
+    <title>Here Relocation</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -44,15 +44,12 @@
     <!-- Page Content -->
     <div class="container" style="position:relative">
             <div class="col-md-8 contppal font-primary">
-          <h3>Relocation service</h3></h3>
-          <h4>Por el mundo</h4>
-          <p>l traslado a otro país significa mucho más que un cambio de trabajo. Involucra un proceso complejo, el cual abarca desde el momento en que la empresa decide la designación del nuevo cargo, hasta que el expatriado y su familia se encuentran instalados y adaptados al nuevo medio.
-Muchas veces las empresas informan a sus empleados sobre los usos y costumbres ligadas a la actividad profesional, pero quien se ocupa de todo el resto?
-En efecto, una adaptación al lugar no es completa hasta que el expatriado y su familia estén instalados confortablemente en su nuevo hogar.
-BARC ayuda a las familias ocupándose de todos los detalles prácticos y burocráticos. Trabajamos en estrecha colaboración con la dirección de Recursos Humanos de distintas empresas. La búsqueda de vivienda se agiliza debido a que mantenemos un contacto permanente con las agencias inmobiliarias quienes nos envían diariamente un listado de propiedades actualizadas.
-BARC propone un plan flexible de servicios, para adaptarse mas fácilmente a las distintas exigencias de sus clientes.
-BARC se comunica directamente con el interesado y su familia disminuyendo las tensiones y la angustia que provocan los traslados hacia un nuevo destino.
-Los servicios de BARC están pensados para asegurar que la ‘relocación’ sea una experiencia positiva para el expatriado y su familia, facilitando el cambio, tanto de los que llegan a la Argentina, como de los que parten hacia otro destino.</p>
+          <h3>Es aquí, es ahora!!!</h3></h3>
+          <p>Vivimos en un mundo globalizado , donde las empresas utilizan las asignaciones internacionales como uno de los medios para desarrollar a sus equipos, es muy frecuente el traslado de los ejecutivos para ocupar cargos en otros países temporaria o permanentemente.
+Dado que en muchos de los casos el ejecutivo se traslada acompañado por su familia, es importante que las empresas consideren la expatriación desde un punto de vista integral y no meramente organizativo, dando soporte al expatriado y a su familia, lo que sin duda redundará luego en una mayor productividad y mejor rendimiento del personal trasladado.
+Here! es un equipo de personas que brinda un servicio completo y un marco de acompañamiento que facilita la integración a la nueva sociedad y colabora para que se viva la transición con mayor bienestar, minimizando el costo emocional. 
+Nuestros valores fundamentales son la honestidad, la responsabilidad y la empatía; y guían cada servicio que brindamos. Poseemos amplia disponibilidad y flexibilidad para elaborar programas a medida.
+          </p>
           <a class="btn btn-info" href="portfolio-item.html">View Project</a>
         </div>
         <div class="col-md-4 contppal">
@@ -67,11 +64,11 @@ Los servicios de BARC están pensados para asegurar que la ‘relocación’ sea
       </ol>
       <!-- Carousel items -->
       <div class="carousel-inner">
-        <div class="active item"><img  src="img/relocation.png" alt="banner1" /></div>
-        <div class="item"><img  src="img/relocation.png" alt="banner2" /></div>
-        <div class="item"><img  src="img/relocation.png" alt="banner3" /></div>
-        <div class="item"><img  src="img/relocation.png" alt="banner4" /></div>
-        <div class="item"><img  src="img/relocation.png" alt="banner5" /></div>
+        <div class="active item "><img class=" carr" src="img/BA6.jpg" alt="banner1" /></div>
+        <div class="item "><img class="carr"  src="img/BA2.jpg" alt="banner2" /></div>
+        <div class="item "><img class="carr" src="img/BA3.jpg" alt="bannBer3" /></div>
+        <div class="item "><img class="carr" src="img/BA4.jpg" alt="banner4" /></div>
+        <div class="item "><img class="carr" src="img/BA5.jpg" alt="banner5" /></div>
       </div>
       <!-- Carousel nav -->
       <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
@@ -98,7 +95,7 @@ Los servicios de BARC están pensados para asegurar que la ‘relocación’ sea
             <div class="col-md-4">
                 <div class="panel ">
                     <div >
-                        <h4><i class="fa fa-fw fa-check blackincolor"></i> Bootstrap v3.2.0</h4>
+                        <h4><i class="fa fa-fw fa-check blackincolor"></i> Link de interes 1</h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -109,7 +106,7 @@ Los servicios de BARC están pensados para asegurar que la ‘relocación’ sea
             <div class="col-md-4">
                 <div class="panel ">
                     <div >
-                        <h4><i class="fa fa-fw fa-gift blackincolor"></i> Free &amp; Open Source</h4>
+                        <h4><i class="fa fa-fw fa-gift blackincolor"></i>  Link de interes 2</h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -120,7 +117,7 @@ Los servicios de BARC están pensados para asegurar que la ‘relocación’ sea
             <div class="col-md-4">
                 <div class="panel">
                     <div>
-                        <h4><i class="fa fa-fw fa-compass blackincolor"></i> Easy to Use</h4>
+                        <h4><i class="fa fa-fw fa-compass blackincolor"></i>  Link de interes 3</h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -132,21 +129,7 @@ Los servicios de BARC están pensados para asegurar que la ‘relocación’ sea
         <!-- /.row -->
 
         <!-- Portfolio Section -->
-        <hr>
-
-        <!-- Call to Action Section -->
-        <div class="well">
-            <div class="row">
-                <div class="col-md-8">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
-                </div>
-                <div class="col-md-4">
-                    <a class="btn btn-lg btn-default btn-block" href="#">Call to Action</a>
-                </div>
-            </div>
-        </div>
-
-        <hr>
+        
 
         <!-- Footer -->
     

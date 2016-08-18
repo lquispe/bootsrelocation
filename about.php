@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Modern Business - Start Bootstrap Template</title>
+    <title>Here Relocation</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -41,13 +41,13 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">About
-                    <small>Subheading</small>
+                <h1 class="page-header">Sobre nosotros
+                    <small></small>
                 </h1>
                 <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a>
+                    <li><a href="index.php">Home</a>
                     </li>
-                    <li class="active">About</li>
+                    <li class="active">Sobre nosotros</li>
                 </ol>
             </div>
         </div>
@@ -56,13 +56,29 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-6">
-                <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                <img class="img-responsive family" src="img/family.jpeg" alt="">
             </div>
             <div class="col-md-6">
-                <h2>About Modern Business</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe, magni, aperiam vitae illum voluptatum aut sequi impedit non velit ab ea pariatur sint quidem corporis eveniet. Odit, temporibus reprehenderit dolorum!</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis?</p>
+                <h2>Sobre nosotros</h2>
+                <p>Somos un grupo de profesionales que hemos experimentado en forma personal el proceso
+
+de expatriación y repatriación, lo que nos permite brindar un servicio que va más allá de la
+
+mera logística para abarcar también el acompañamiento al expatriado y a su familia en
+
+forma holística.
+
+Nuestros servicios pueden modularse de acuerdo a las necesidades de cada familia, para
+
+que el proceso de adaptación sea rápido y placentero.
+
+Estamos convencidos de que un proceso de ubicación en el país exitoso redundará en una
+
+buena estadía posterior y en el bienestar de toda la familia. El expatriado y su familia
+
+dejan otro país, afectos, pertenencias….y comienzan a establecer su vida, sus relaciones y
+
+sus lazos HERE!, por eso estamos aquí, para facilitar su llegada.</p>
             </div>
         </div>
         <!-- /.row -->
