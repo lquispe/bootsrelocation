@@ -50,7 +50,7 @@ Dado que en muchos de los casos el ejecutivo se traslada acompañado por su fami
 Here! es un equipo de personas que brinda un servicio completo y un marco de acompañamiento que facilita la integración a la nueva sociedad y colabora para que se viva la transición con mayor bienestar, minimizando el costo emocional. 
 Nuestros valores fundamentales son la honestidad, la responsabilidad y la empatía; y guían cada servicio que brindamos. Poseemos amplia disponibilidad y flexibilidad para elaborar programas a medida.
           </p>
-          <a class="btn btn-info" href="portfolio-item.html">View Project</a>
+          
         </div>
         <div class="col-md-4 contppal">
           <div id="contenedor">
